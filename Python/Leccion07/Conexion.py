@@ -43,7 +43,12 @@ class Conexion:
             
 
 if __name__ == "__main__":
-   pass
+    conexion1 = Conexion.obtenerConexion()
+    conexion2 = Conexion.obtenerConexion()
+    conexion3 = Conexion.obtenerConexion()
+    conexion4 = Conexion.obtenerConexion()
+    conexion5 = Conexion.obtenerConexion()
+   
 
 
 
