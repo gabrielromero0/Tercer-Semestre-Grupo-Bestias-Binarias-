@@ -30,7 +30,7 @@ function sumarTodo(){
     suma += arguments[i];
   }
   return suma;
-}
+
 
 // Declaramos una funcion de tipo expresion 1.3
 let x = function(a, b){return a + b}; //necesita cierre con punto y coma
@@ -100,3 +100,5 @@ function cambiarValorObjeto(p1){ //Paso por referencia
 
 cambiarValorObjeto( persona );
 console.log( persona );
+=======
+
