@@ -1,3 +1,4 @@
+
 class Producto{
   constructor(nombre, precio){
       this._idProducto = ++Producto.contadorProductos;
@@ -82,5 +83,10 @@ class Orden{
 
 let producto1 = new Producto('Pantalon', 200);
 let producto2 = new Producto('Camisa', 100);
-console.log(producto1.toString());
-console.log(producto2.toString());
+let producto3 = new Producto('Cinturon', 50);
+let orden1 = new Orden();
+let orden2 = new Orden();
+orden1.agregarProducto(producto1);
+orden1.agregarProducto(producto2);
+orden1.agregarProducto(producto3);
+orden1.mostrarOrden();
