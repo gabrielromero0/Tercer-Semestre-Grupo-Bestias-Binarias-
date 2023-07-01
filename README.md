@@ -36,5 +36,5 @@ Aca vamos a Subir lo que hagamos semana a semana, en las clases
 | SEMANA 8 | FLORENCIA ORTEGA|
 | SEMANA 9 | DAIANA ESCUDERO|
 | SEMANA 10 | NAHUEL TAPIA|
-| SEMANA 11 | <img src="https://venus.com.py/wp-content/uploads/2017/03/bateria-movimiento.gif" alt="bateria" width="150" height="35" >|
+| SEMANA 11 | ALBANO CALAMARA |
 | SEMANA 12 | <img src="https://venus.com.py/wp-content/uploads/2017/03/bateria-movimiento.gif" alt="bateria" width="150" height="35" >|
